@@ -116,4 +116,4 @@ Cloud deployment (e.g., Render, Hugging Face Spaces)
 👨‍💻 Contributors
 
 Brian Kipchumba
-Borchar Gatwetch
+Borchar Gatwech
